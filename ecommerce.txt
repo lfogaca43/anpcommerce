@@ -1,0 +1,12 @@
+Azure SQL
+Server Name - anp-commerce-00
+Server Admin Login - anp-commerce
+Database Name - db-loja-prod
+Password - password@123
+
+Azure WebApp
+WebApp Name - anp-commerce-prod
+App Service Plan - anp-commerce-sp
+
+Storage Account
+Account Name - anpcommerce00
