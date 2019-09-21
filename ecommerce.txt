@@ -21,6 +21,8 @@ Services:StorageAccount - https://anpcommerce00.blob.core.windows.net/wwwroot
 ANPCommerceWebContext - Server=BANCO;Database=db-loja-prod;User id=USUARIO;Password=SENHA
 SQL Azure
 
+SEND_GRID_KEY - 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
+
 #r "Newtonsoft.Json"
 
 using System.Net;
