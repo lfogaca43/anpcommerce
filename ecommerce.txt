@@ -14,3 +14,9 @@ App Service Plan - anp-commerce-sp
 
 Storage Account
 Account Name - anpcommerce00
+
+Connection Strings
+Services:SendMail - https://anp-comm-serverless.azurewebsites.net/api/SendMail
+Services:StorageAccount - https://anpcommerce00.blob.core.windows.net/wwwroot
+ANPCommerceWebContext - Server=tcp:anpcommerce.database.windows.net,1433;Database=db-loja-prod;User id=mcamara;Password=G0m#s268711
+SQL Azure
