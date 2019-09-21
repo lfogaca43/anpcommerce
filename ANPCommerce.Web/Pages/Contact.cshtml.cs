@@ -9,7 +9,7 @@ namespace ANPCommerce.Web.Pages
 {
     public class ContactModel : PageModel
     {
-        private readonly IConfiguration _configuration;
+        public IConfiguration _configuration;
         public ContactModel(IConfiguration configuration)
         {
             _configuration = configuration;
