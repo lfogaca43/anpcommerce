@@ -87,3 +87,5 @@ public static async Task<IActionResult> Run(HttpRequest req, ILogger log)
         <PackageReference Include="Sendgrid" Version="9.12.0" />
     </ItemGroup>
 </Project>
+
+Services:StorageAccount - https://anpcommerce00.blob.core.windows.net/wwwroot
