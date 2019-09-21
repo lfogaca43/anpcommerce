@@ -1,3 +1,7 @@
+Azure na Pratica
+azurenapratica@gmail.com
+azure@123
+
 Azure SQL
 Server Name - anp-commerce-00
 Server Admin Login - anp-commerce
